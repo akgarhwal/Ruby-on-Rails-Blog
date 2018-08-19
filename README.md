@@ -7,7 +7,9 @@ Rails Version : Rails 5.2.1
 # How to Run
 
 ## Start web server
- bin/rails server
+ _> bin/rails server
  
 ## Open Blog in Web Browser
- http://localhost:3000/
+ firefox http://localhost:3000/
+ 
+ 
