@@ -6,6 +6,9 @@ Rails Version : Rails 5.2.1
 
 # How to Run
 
+## To install requirements
+ _> bundle install
+
 ## Start web server
  _> bin/rails server
  
